@@ -1,0 +1,1 @@
+console.log('Tovo Mini App Loaded');
